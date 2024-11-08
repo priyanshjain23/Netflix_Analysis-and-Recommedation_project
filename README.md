@@ -1,4 +1,4 @@
-# Netflix Movies and TV Shows Data Analysis using SQL
+# Netflix Movies and TV Shows Data Analysis and Recommedation System using SQL and Python 
 
 ![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
 
@@ -11,6 +11,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 - Identify the most common ratings for movies and TV shows.
 - List and analyze content based on release years, countries, and durations.
 - Explore and categorize content based on specific criteria and keywords.
+- Recommedation System using cosine similarity and TF-IDF Vector
 
 ## Dataset
 
